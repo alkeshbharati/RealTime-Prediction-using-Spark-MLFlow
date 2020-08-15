@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/alkeshbharati/Desktop/Flight_Prediction_MLflow/mlruns/1/17c1decd29c54325b1617f38a1bf63b4/artifacts
+end_time: 1597442970317
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 17c1decd29c54325b1617f38a1bf63b4
+run_uuid: 17c1decd29c54325b1617f38a1bf63b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1597442970305
+status: 4
+tags: []
+user_id: alkeshbharati
